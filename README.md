@@ -1,1 +1,1 @@
-This is the code collection pf web development files.
+This is the code collection of sigmma web development files.
